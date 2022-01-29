@@ -1,0 +1,18 @@
+h4{
+    color:blueviolet;
+    background-color: chartreuse;
+    /* text-align: center; */
+     font-size: 30px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;  
+    width: 200px;
+    height: 100px;
+    padding: 50px 50px;
+    /* margin: 10px  ;
+    margin: 30px 40px 20px 10px; */
+    margin: 30px 30px;
+    border: 10px solid #FF5733   ;
+    border-radius: 10px;
+    box-shadow: 10px 10px #0E6251  ;
+}

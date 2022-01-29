@@ -1,0 +1,23 @@
+{
+    "profile":[{
+
+        "img":"hai.jpg",
+     "name":"CIET",
+    "branch":"IT",
+    "year":"2nd",
+    "SCOUNT":"10"
+    },
+    {
+        "img":"hai.jpg",
+        "name":"CIET",
+        "branch":"IT",
+        "year":"2nd"
+    },
+    {
+        "img":"hai.jpg",
+        "name":"CIET",
+        "branch":"IT",
+        "year":"4th"
+    
+}]
+    }
